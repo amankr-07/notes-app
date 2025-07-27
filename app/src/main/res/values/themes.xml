@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Notes" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary color - affects ActionBar background -->
+        <item name="colorPrimary">#FF6200EA</item>
+        <!-- Primary dark color - affects status bar -->
+        <item name="colorPrimaryDark">#FF3700B3</item>
+        <!-- Accent color -->
+        <item name="colorAccent">#FF03DAC5</item>
+    </style>
+
+    <style name="Theme.Notes" parent="Base.Theme.Notes" />
+</resources>
